@@ -3,9 +3,6 @@
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
-
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5
@@ -83,9 +80,6 @@ The directory structure of your new project looks like this:
 └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 ```
 
-## Contributing
-
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
 
 ### Installing development requirements
 ------------
@@ -96,3 +90,6 @@ We welcome contributions! [See the docs for guidelines](https://drivendata.githu
 ------------
 
     py.test tests
+
+### Read more about Cookiecutter Data Science
+[Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
